@@ -1,0 +1,104 @@
+{
+    "app": {
+        "title": "APP.TITLE",
+        "newVersionFound.title": "Nová verze",
+        "newVersionFound.desc": "Byla nalezena nová verze aplikace. Pro optimální fungování musíte načíst celou stránku.",
+        "component": {
+            "mat_paginator": {
+                "firstPage": "První stránka",
+                "itemsPerPage": "Počet položek",
+                "lastPage": "Poslední stránka",
+                "nextPage": "Další stránka",
+                "previousPage": "Předchozí stránka"
+            }
+        }
+    },
+    "auth": {
+        "login.username": "Uživatelské jméno",
+        "login.password": "Heslo",
+        "login.action": "Přihlásit",
+        "login.error": "Zadali jste nesprávné přihlašovací údaje.",
+        "login.403.error": "Zadali jste nesprávné přihlašovací údaje.",
+        "login.422.error": "Zadali jste nesprávné přihlašovací údaje.",
+        "login.401.error": "Vypršela platnost vašeho přihlášení.",
+        "login.invalidIdentity": "Nepodařilo se načíst uživatele.",
+        "reset.linkText": "Zapomněl jsem přihlašovací údaje",
+        "backToLogin": "Zpět na přihlašení",
+        "reset.description": "Pro obnovení hesla zadejte prosím svůj e-mail, na který vám zašleme instrukce pro nastavení nového hesla.",
+        "reset.email": "Váš e-mail",
+        "reset.action": "Získat nové heslo",
+        "set.password": "Vaše nové heslo",
+        "set.description": "Zadejte nové heslo, které musí mít minimálně 8 znaků včetně velké a malé písmeno, čislo a speciálni znak.",
+        "set.action": "Nastavit nové heslo",
+        "expired": "Byl/a jste automaticky odhlášen/a.",
+        "email.validate.description": "Potvrzení změny emailové adresy"
+    },
+    "dashboard": {
+        "overview.title": "Přehled"
+    },
+    "contract": {
+        "overview.title": "Smlouva"
+    },
+    "account": {
+        "settings": "Nastavení účtu",
+        "profile": "Profil",
+        "security": "Zabezpečení",
+        "about": "O vás",
+        "contact": "Kontaktní údaje",
+        "name": "Celé jméno",
+        "alias": "Alias",
+        "email": "Email",
+        "email.change.resend": "Znovu odeslat e-mail",
+        "email.change.reset": "Vrátit změnu e-mailu",
+        "email.change.waitingTitle": "Čeká se na ověření aktualizace",
+        "email.change.waitingDescription": "Potřebujeme, abyste zkontrolovali svou e-mailovou schránku <strong>{{email}}</strong> a ověřením své totožnosti dokončili aktualizaci.",
+        "changePassword": "Změna hesla",
+        "passwordCurrent": "Současné heslo",
+        "passwordNew": "Nové heslo",
+        "enterPasswordCurrent": "Zadejte současné heslo",
+        "enterPasswordNew": "Zadejte nové heslo",
+        "passwordNewHint": "Min. 8 znaků včetně velké a malé písmeno, čislo a speciálni znak"
+    },
+    "user": {
+        "update.success": "Údaje byly změněny",
+        "update.error": "Došlo k chybě při změně údajů.",
+        "password.update.success": "Heslo bylo změněno",
+        "password.update.error": "Došlo k chybě při změně hesla",
+        "email.update.success": "Změna e-mailu byla úspěšně zadána",
+        "email.update.error": "Došlo k chybě při změně e-mailu",
+        "email.resend.success": "E-mail byl odeslán",
+        "email.resend.error": "Došlo k chybě při odeslání e-mailu",
+        "email.reset.success": "Původní e-mailová adresa byla obnovena",
+        "email.reset.error": "Došlo k chybě při vrácení původního e-mailu",
+        "email.change.error": "Došlo k chybě při potvrzování změny e-mailové adresy",
+        "email.change.success": "E-mailová adresa byla změněna",
+        "password.reset.email.error": "Nebylo možné poslat email s instrukcemi pro změnu hesla.",
+        "password.reset.email.success": "Email pro reset hesla bude vzápětí odeslán.",
+        "password.reset.password.error": "Došlo k chybě při potvrzování změny hesla.",
+        "password.reset.password.success": "Heslo bylo změněno."
+    },
+    "bugs": {
+        "create.title": "Nahlásit chybu",
+        "project": "Projekt",
+        "type": "Typ",
+        "summary": "Zhrnutí",
+        "summary.placeholder": "Krátky popis chyby",
+        "priority": "Priorita",
+        "context": "Kontext",
+        "context.placeholder": "Kdy chyba vznikla? U jaké smlouvy/aktivity?",
+        "description": "Popis",
+        "description.placeholder": "Popište podrobně chování aplikace při vzniklé chybě.",
+        "expected": "Očekávané chování",
+        "expected.placeholder": "Popište, jak by mělo vypadat správné chování aplikace.",
+        "read.error": "Chyba při načtení nahlášených chyb.",
+        "create.error": "Došlo k chybě při vytváření chyby."
+    },
+    "general": {
+        "loading": "Načítání",
+        "set": "Nastavit",
+        "load": "Načíst",
+        "logout": "Odhlásit",
+        "close": "Zavřít",
+        "submit": "Potvrdit"
+    }
+}
