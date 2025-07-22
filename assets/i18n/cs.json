@@ -14,14 +14,20 @@
         }
     },
     "auth": {
+        "login.pageTitle": "Přihlášení do MojeTelly",
         "login.username": "Uživatelské jméno",
+        "login.email": "E-mail",
         "login.password": "Heslo",
-        "login.action": "Přihlásit",
+        "login.action": "Přihlásit se",
         "login.error": "Zadali jste nesprávné přihlašovací údaje.",
         "login.403.error": "Zadali jste nesprávné přihlašovací údaje.",
         "login.422.error": "Zadali jste nesprávné přihlašovací údaje.",
         "login.401.error": "Vypršela platnost vašeho přihlášení.",
         "login.invalidIdentity": "Nepodařilo se načíst uživatele.",
+        "login.hidePassword": "Skrýt heslo",
+        "login.showPassword": "Ukázat heslo",
+        "login.capsLockIsOn": "Máte zapnutý Caps Lock",
+        "reset.forgotPassword": "Zapomenuté heslo",
         "reset.linkText": "Zapomněl jsem přihlašovací údaje",
         "backToLogin": "Zpět na přihlašení",
         "reset.description": "Pro obnovení hesla zadejte prosím svůj e-mail, na který vám zašleme instrukce pro nastavení nového hesla.",
@@ -31,13 +37,13 @@
         "set.description": "Zadejte nové heslo, které musí mít minimálně 8 znaků včetně velké a malé písmeno, čislo a speciálni znak.",
         "set.action": "Nastavit nové heslo",
         "expired": "Byl/a jste automaticky odhlášen/a.",
-        "email.validate.description": "Potvrzení změny emailové adresy"
+        "email.validate.description": "Potvrzení změny emailové adresy",
+        "login.error.email.valid": "Zadejte platnou e-mailovou adresu",
+        "login.error.email.required": "Zadejte Váš e-mail",
+        "login.error.password.required": "Zadejte heslo"
     },
     "dashboard": {
-        "overview.title": "Přehled"
-    },
-    "contract": {
-        "overview.title": "Smlouva"
+        "overview.title": "Váš přehled"
     },
     "account": {
         "settings": "Nastavení účtu",
@@ -100,5 +106,13 @@
         "logout": "Odhlásit",
         "close": "Zavřít",
         "submit": "Potvrdit"
+    },
+    "sale": {
+        "navigateTo.action": "Vybrat si balíček",
+        "navigateTo.cardTitle": "Vyberte si svůj první Telly balíček",
+        "navigateTo.cardSubtitle": "Ještě nemáte balíček? Pojďte se s námi podívat na naši širokou nabídku možností, kde najdete Váš balíček přímo na míru podle Vašich požadavků."
+    },
+    "page": {
+        "login.title": "Přihlašte se a sledujte Telly naplno"
     }
 }
