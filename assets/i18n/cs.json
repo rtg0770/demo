@@ -33,7 +33,7 @@
         "reset.description": "Vyplňte svůj přihlašovací e-mail a my Vám pošleme nové heslo. To si pak můžete kdykoliv změnit v sekci Osobní údaje.",
         "reset.email": "Váš e-mail",
         "reset.action": "Získat nové heslo",
-        "reset.notice": "Pokud u nás máte účet, poslali jsme vám e‑mail s odkazem na změnu hesla.",
+        "reset.notice": "Pokud u nás máte účet, poslali jsme vám e-mail s odkazem na změnu hesla.",
         "reset.error": "Nepodařilo se odeslat žádost o změnu hesla. Zkuste to prosím znovu.",
         "set.password": "Vaše nové heslo",
         "set.description": "Zadejte nové heslo, které musí mít minimálně 8 znaků včetně velké a malé písmeno, čislo a speciálni znak.",
