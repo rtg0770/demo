@@ -47,6 +47,9 @@
     "dashboard": {
         "overview.title": "Váš přehled"
     },
+    "contract": {
+        "overview.title": "Moje smlouva"
+    },
     "account": {
         "settings": "Nastavení účtu",
         "profile": "Profil",
