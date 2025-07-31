@@ -42,7 +42,8 @@
         "email.validate.description": "Potvrzení změny emailové adresy",
         "login.error.email.valid": "Zadejte platnou e-mailovou adresu",
         "login.error.email.required": "Zadejte Váš e-mail",
-        "login.error.password.required": "Zadejte heslo"
+        "login.error.password.required": "Zadejte heslo",
+        "registration.error.password.weak": "Slabé heslo"
     },
     "dashboard": {
         "overview.title": "Přehled"
