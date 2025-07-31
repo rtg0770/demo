@@ -45,10 +45,13 @@
         "login.error.password.required": "Zadejte heslo"
     },
     "dashboard": {
-        "overview.title": "Váš přehled"
+        "overview.title": "Přehled"
     },
     "contract": {
         "overview.title": "Moje smlouva"
+    },
+    "device": {
+        "overview.title": "Moje zařízení"
     },
     "account": {
         "settings": "Nastavení účtu",
