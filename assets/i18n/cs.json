@@ -43,7 +43,26 @@
         "login.error.email.valid": "Zadejte platnou e-mailovou adresu",
         "login.error.email.required": "Zadejte Váš e-mail",
         "login.error.password.required": "Zadejte heslo",
-        "registration.error.password.weak": "Slabé heslo"
+        "registration.error.password.weak": "Slabé heslo",
+        "registration.phone": "Telefon",
+        "registration.error.phone.required": "Zadejte telefonní číslo",
+        "registration.error.phone.invalid": "Neplatné telefonní číslo",
+        "registration.email": "Váš e-mail",
+        "registration.error.email.required": "E-mail je povinný",
+        "registration.error.email.invalid": "Neplatný e-mail",
+        "registration.password": "Heslo",
+        "registration.hidePassword": "Skrýt heslo",
+        "registration.showPassword": "Zobrazit heslo",
+        "registration.passwordAgain": "Heslo znovu",
+        "registration.error.passwordAgain.required": "Musíte zadat své heslo ještě jednou",
+        "registration.error.passwords.mismatch": "Hesla se nesodují",
+        "registration.name": "Jméno",
+        "registration.error.name.required": "Jméno je povinné",
+        "registration.surname": "Příjmení",
+        "registration.error.surname.required": "Příjmení je povinné",
+        "registration.address": "Adresa",
+        "registration.error.address.required": "Adresa je povinný údaj",
+        "registration.country": "Země"
     },
     "dashboard": {
         "overview.title": "Přehled"
@@ -119,7 +138,9 @@
     "sale": {
         "navigateTo.action": "Vybrat si balíček",
         "navigateTo.cardTitle": "Vyberte si svůj první Telly balíček",
-        "navigateTo.cardSubtitle": "Ještě nemáte balíček? Pojďte se s námi podívat na naši širokou nabídku možností, kde najdete Váš balíček přímo na míru podle Vašich požadavků."
+        "navigateTo.cardSubtitle": "Ještě nemáte balíček? Pojďte se s námi podívat na naši širokou nabídku možností, kde najdete Váš balíček přímo na míru podle Vašich požadavků.",
+        "tabs.currentCustomer": "Stávající zákazník",
+        "tabs.newCustomer": "Nový zákazník"
     },
     "page": {
         "login.title": "Přihlašte se a sledujte Telly naplno"
