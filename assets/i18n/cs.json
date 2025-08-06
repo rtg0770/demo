@@ -133,7 +133,8 @@
         "load": "Načíst",
         "logout": "Odhlásit",
         "close": "Zavřít",
-        "submit": "Potvrdit"
+        "submit": "Potvrdit",
+        "watch": "Sledovat TV"
     },
     "sale": {
         "navigateTo.action": "Vybrat si balíček",
