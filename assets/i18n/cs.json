@@ -134,7 +134,8 @@
         "logout": "Odhlásit",
         "close": "Zavřít",
         "submit": "Potvrdit",
-        "watch": "Sledovat TV"
+        "watch": "Sledovat TV",
+        "countryCzech": "Česká republika"
     },
     "sale": {
         "navigateTo.action": "Vybrat si balíček",
